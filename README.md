@@ -1,4 +1,4 @@
-# BF_DC_Motor_Driver
+# BF DC Motor Driver
 
 ## Installation
 > 1. Mod pin number for your circuit and hall sensor.
